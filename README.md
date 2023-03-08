@@ -6,8 +6,9 @@
 3. Using Date.parse() method to calculate the time in ms
 4. Used timeCalc() function to calculate the difference between Input Date and Current Date
 5. Updated the values in <span> tag using DOM Manipulation
-6. Used localStorage.setItem() method to set the initial value of input value in local storage
-7. Then added localStorage.getItem() method (if available) to get the local storage value and update in DOM
+6. Added setInterval() method to call function again every one second
+7. Used localStorage.setItem() method to set the initial value of input value in local storage
+8. Then added localStorage.getItem() method (if available) to get the local storage value and update in DOM
 
 # Check the site
 https://awizp.github.io/Date-countdown/
